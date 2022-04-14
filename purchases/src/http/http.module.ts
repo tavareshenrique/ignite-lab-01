@@ -9,9 +9,11 @@ import { DatabaseModule } from '../database/database.module';
 
 import { ProductsResolver } from './graphql/resolvers/products.resolver';
 import { PurchasesResolver } from './graphql/resolvers/purchases.resolver';
+import { CustomersResolver } from './graphql/resolvers/customers.resolver';
 
 import { ProductsService } from '../services/products.service';
 import { PurchasesService } from '../services/purchases.service';
+import { CustomersService } from '../services/customers.service';
 
 @Module({
   imports: [
@@ -26,10 +28,12 @@ import { PurchasesService } from '../services/purchases.service';
     // Resolvers
     ProductsResolver,
     PurchasesResolver,
+    CustomersResolver,
 
     // Services
     ProductsService,
     PurchasesService,
+    CustomersService,
   ],
 })
 export class HttpModule {}
