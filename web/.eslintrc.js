@@ -35,5 +35,6 @@ module.exports = {
         tsx: 'never',
       },
     ],
+    'jsx-a11y/anchor-is-valid': 0,
   },
 };

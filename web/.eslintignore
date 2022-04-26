@@ -1,1 +1,2 @@
 src/graphql/generated/*.tsx
+tailwind.config.js
