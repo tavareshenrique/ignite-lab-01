@@ -1,6 +1,6 @@
 # Classroom Service
 > Esse serviço é utilizado para o cadastro de Cursos e Matriculas de Alunos.
->> Caso queira acessar o **GraphQL** do serviço de **purchases**, basta acessar: [http://localhost:3333/graphql](http://localhost:3333/graphql).
+>> Caso queira acessar o **GraphQL** do serviço de **classroom**, basta acessar: [http://localhost:33334graphql](http://localhost:3333/graphql).
 
 ## Configurando `.env`
 
