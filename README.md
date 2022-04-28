@@ -27,6 +27,8 @@
 
 ---
 
+> 🧪 Essa aplicação não possui até o momento Testes Unitários, Integração e E2E, mas está pronta para ser executada. 🧪
+
 # :information_source: Como Executar?
 
 ### 1. Configurações Iniciais
