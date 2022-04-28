@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Go Barber" title="Go Barber" src="https://raw.githubusercontent.com/tavareshenrique/ignite-lab-01/fdc436f7cf6b78de9683118fb7a0f000a5a4ae6f/assets/logo.svg" width="180px" />
+  <img alt="Ignite Lab" title="Ignite Lab" src="https://raw.githubusercontent.com/tavareshenrique/ignite-lab-01/fdc436f7cf6b78de9683118fb7a0f000a5a4ae6f/assets/logo.svg" width="180px" />
 </h1>
 
 <p align="center">
