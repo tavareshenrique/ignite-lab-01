@@ -154,7 +154,7 @@ yarn start:dev
 > **4.1.** Acesse o serviço de **gateway**:
 
 ```bash
-cd gateway
+cd web
 ```
 
 > **4.2.** Instale as dependências:
@@ -166,8 +166,10 @@ yarn
 > **4.3.** Inicie o Serviço:
 
 ```bash
-yarn start:dev
+yarn dev
 ```
+
+> ➡️ Acesse [http://localhost:3000](http://localhost:3000) para acessar a aplicação web.
 
 
 # :rocket: Tecnologias
