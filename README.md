@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  O <b>Ignite Lab</b> é um curso bônus da Rocketseat onde construimos uma aplicação utilizando: <b>NestJS, Apache Kafka, GraphQL, ReactJS, Next.js e Apollo</b>. A ideia é do projeto é uma plataforma de cursos divididas em microsserviços, um serviço de compras chamado <b>purchases</b> e um serviço de aulas chamado <b>classroom</b>, ambos utilizando autenticação pela plataforma <a href="https://auth0.com/pt">Auth0</a>.
+  O <b>Ignite Lab</b> é um curso bônus da Rocketseat onde construimos uma aplicação utilizando: <b>NestJS, Prisma, Apache Kafka, GraphQL, ReactJS, Next.js e Apollo</b>. A ideia é do projeto é uma plataforma de cursos divididas em microsserviços, um serviço de compras chamado <b>purchases</b> e um serviço de aulas chamado <b>classroom</b>, ambos utilizando autenticação pela plataforma <a href="https://auth0.com/pt">Auth0</a>.
 </p>
 
 <p align="center">
