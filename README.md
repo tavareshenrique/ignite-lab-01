@@ -27,7 +27,7 @@
 
 ---
 
-> 🧪 Essa aplicação não possuirá Testes Unitários, Integração e E2E por não ser o foco do estudo, mas está pronta para ser executada. 🧪
+> 🧪 Essa aplicação não possuirá **Testes Unitários**, **Integração** e **E2E** por não ser o foco do estudo, mas está pronta para ser executada. 🧪
 
 # :information_source: Como Executar?
 
